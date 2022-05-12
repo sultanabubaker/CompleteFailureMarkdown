@@ -41,7 +41,7 @@
 	"broadway": "~0.3.6",
     "chai": "^4.2.0",
     "eventemitter2": "0.4.x",
-    "mocha": "^3.5.3",
+    "mocha": "^6.0.0",
     "moment": "^2.23.0",
     "request": "2.x.x",
     "vows": "0.7.x",
