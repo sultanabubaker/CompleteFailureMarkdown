@@ -55,7 +55,7 @@
     "express-session": "^1.13.0",
     "log4js": "^0.6.36",
     "pg-promise": "^4.4.6",
-    "serve-favicon": "~2.3.0",
+    "serve-favicon": "~2.4.5",
     "graphlib": "2.1.1",
     "lodash": "4.17.4",
     "octopus-modules": "~0.0.1",
