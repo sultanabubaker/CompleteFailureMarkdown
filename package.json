@@ -44,7 +44,7 @@
     "mocha": "^3.5.3",
     "moment": "^2.23.0",
     "request": "2.x.x",
-    "vows": "0.7.x",
+    "vows": "0.8.x",
     "q": "^1.5.1",
     "body-parser": "1.18.2",
     "express": "4.15.5",
